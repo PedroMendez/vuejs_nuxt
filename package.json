@@ -27,7 +27,7 @@
     "vue-chartjs": "^3.1.1"
   },
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^6.0.6",
     "nodemon": "^1.11.0",
     "babel-eslint": "^8.2.1",
