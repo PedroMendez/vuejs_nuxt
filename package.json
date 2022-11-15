@@ -29,7 +29,7 @@
   "devDependencies": {
     "node-sass": "^7.0.0",
     "sass-loader": "^6.0.6",
-    "nodemon": "^1.11.0",
+    "nodemon": "^2.0.20",
     "babel-eslint": "^8.2.1",
     "eslint": "^8.27.0",
     "eslint-friendly-formatter": "^3.0.0",
